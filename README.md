@@ -102,7 +102,7 @@ Use the "Reset" button in the Tkinter version or "Restart Game" button in the Py
 ## Screenshots
 ### Tkinter Version
 
-
+![ttt1](https://github.com/user-attachments/assets/99cda812-41c6-4788-8d8d-1c16316b1366)
 
 
 
